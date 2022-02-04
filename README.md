@@ -1,1 +1,3 @@
-# Black-Jack
+# Black Jack
+
+This is a simple game
